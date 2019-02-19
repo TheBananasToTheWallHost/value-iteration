@@ -1,0 +1,6 @@
+C:\Users\RUM\source\repos\CS4300_HW3\Run Markov\DataClasses\bin\Debug\DataClasses.dll
+C:\Users\RUM\source\repos\CS4300_HW3\Run Markov\DataClasses\bin\Debug\DataClasses.pdb
+C:\Users\RUM\source\repos\CS4300_HW3\Run Markov\DataClasses\obj\Debug\DataClasses.csprojResolveAssemblyReference.cache
+C:\Users\RUM\source\repos\CS4300_HW3\Run Markov\DataClasses\obj\Debug\DataClasses.csproj.CoreCompileInputs.cache
+C:\Users\RUM\source\repos\CS4300_HW3\Run Markov\DataClasses\obj\Debug\DataClasses.dll
+C:\Users\RUM\source\repos\CS4300_HW3\Run Markov\DataClasses\obj\Debug\DataClasses.pdb

@@ -48,6 +48,8 @@ namespace Run_Markov
 
                 Console.WriteLine();
             }
+
+            Console.Read();
         }
     }
 }

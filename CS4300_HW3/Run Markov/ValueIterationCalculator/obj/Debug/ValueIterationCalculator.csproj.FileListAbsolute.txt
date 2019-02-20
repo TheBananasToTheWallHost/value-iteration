@@ -6,3 +6,11 @@ C:\Users\RUM\source\repos\CS4300_HW3\Run Markov\ValueIterationCalculator\obj\Deb
 C:\Users\RUM\source\repos\CS4300_HW3\Run Markov\ValueIterationCalculator\obj\Debug\ValueIterationCalculator.csproj.CoreCompileInputs.cache
 C:\Users\RUM\source\repos\CS4300_HW3\Run Markov\ValueIterationCalculator\obj\Debug\ValueIterationCalculator.dll
 C:\Users\RUM\source\repos\CS4300_HW3\Run Markov\ValueIterationCalculator\obj\Debug\ValueIterationCalculator.pdb
+C:\Users\RUM\Documents\GitHub\value-iteration\CS4300_HW3\Run Markov\ValueIterationCalculator\bin\Debug\ValueIterationCalculator.dll
+C:\Users\RUM\Documents\GitHub\value-iteration\CS4300_HW3\Run Markov\ValueIterationCalculator\bin\Debug\ValueIterationCalculator.pdb
+C:\Users\RUM\Documents\GitHub\value-iteration\CS4300_HW3\Run Markov\ValueIterationCalculator\bin\Debug\DataClasses.dll
+C:\Users\RUM\Documents\GitHub\value-iteration\CS4300_HW3\Run Markov\ValueIterationCalculator\bin\Debug\DataClasses.pdb
+C:\Users\RUM\Documents\GitHub\value-iteration\CS4300_HW3\Run Markov\ValueIterationCalculator\obj\Debug\ValueIterationCalculator.csprojResolveAssemblyReference.cache
+C:\Users\RUM\Documents\GitHub\value-iteration\CS4300_HW3\Run Markov\ValueIterationCalculator\obj\Debug\ValueIterationCalculator.csproj.CoreCompileInputs.cache
+C:\Users\RUM\Documents\GitHub\value-iteration\CS4300_HW3\Run Markov\ValueIterationCalculator\obj\Debug\ValueIterationCalculator.dll
+C:\Users\RUM\Documents\GitHub\value-iteration\CS4300_HW3\Run Markov\ValueIterationCalculator\obj\Debug\ValueIterationCalculator.pdb

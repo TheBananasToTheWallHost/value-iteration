@@ -62,6 +62,7 @@ namespace Run_Markov
         /// <summary>
         /// ****************TODO****************
         /// Add file reading capabilities maybe. Also break function down into smaller pieces.
+        /// Add actions.
         /// </summary>
         /// <returns></returns>
         static List<DirectedEdge> ReadInput(out int stateCount)
